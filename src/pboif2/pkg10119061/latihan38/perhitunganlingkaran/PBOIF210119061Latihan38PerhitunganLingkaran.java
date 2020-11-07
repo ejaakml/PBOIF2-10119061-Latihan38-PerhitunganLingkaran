@@ -8,6 +8,10 @@ package pboif2.pkg10119061.latihan38.perhitunganlingkaran;
 /**
  *
  * @author Rheiza
+ * NAMA  : RHEIZA AKMAL R
+ * KELAS : IF2
+ * NIM   : 10119061
+ * Deskripsi Program : untuk menentukan perhitungan lingkaran 
  */
 public class PBOIF210119061Latihan38PerhitunganLingkaran {
 
